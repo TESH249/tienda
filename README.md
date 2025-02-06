@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Universidad XYZ</title>
+    <title>Consultorio Dental</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
     <style>
         body { font-family: Arial, sans-serif; }
@@ -15,7 +15,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
-            <a class="navbar-brand" href="#">Universidad XYZ</a>
+            <a class="navbar-brand" href="#">Consultorio Dental</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -31,13 +31,13 @@
     
     <!-- Hero Section -->
     <section class="hero">
-        <h1>Bienvenido a la Universidad XYZ</h1>
+        <h1>Bienvenido al Consultorio</h1>
     </section>
     
     <!-- Sobre Nosotros -->
     <section id="about" class="container py-5">
         <h2 class="text-center">Sobre Nosotros</h2>
-        <p class="text-center">Somos una universidad de excelencia académica con más de 50 años de experiencia.</p>
+        <p class="text-center">Somos un consultorio dental de excelencia con más de 10 años de experiencia.</p>
     </section>
     
     <!-- Servicios -->
@@ -47,15 +47,15 @@
             <div class="row">
                 <div class="col-md-4 text-center">
                     <h4>Educación de Calidad</h4>
-                    <p>Contamos con los mejores programas académicos.</p>
+                    <p>Contamos con los mejores tratamientos dentales.</p>
                 </div>
                 <div class="col-md-4 text-center">
-                    <h4>Investigación</h4>
-                    <p>Impulsamos proyectos innovadores.</p>
+                    <h4>Resinas</h4>
+                    <p>Las resinas de alta estética es una solución para corregir: pequeñas imperfecciones, fracturas menores, caries, alteraciones de color, formas inadecuadas, dientes pequeños, etc.</p>
                 </div>
                 <div class="col-md-4 text-center">
-                    <h4>Oportunidades Laborales</h4>
-                    <p>Conectamos a nuestros estudiantes con empresas líderes.</p>
+                    <h4>Dentistas</h4>
+                    <p>En La Clínica Dental disponemos de un equipo profesional de dentistas altamente calificados, comprometidos en ofrecerte un servicio de calidad con tecnología de avanzada.</p>
                 </div>
             </div>
         </div>
@@ -83,7 +83,7 @@
     
     <!-- Footer -->
     <footer class="bg-dark text-white text-center py-3">
-        <p>&copy; 2025 Universidad XYZ. Todos los derechos reservados.</p>
+        <p>&copy; 2025 Clinica Dental. Todos los derechos reservados.</p>
     </footer>
     
     <script>
