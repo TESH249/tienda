@@ -46,8 +46,8 @@
             <h2 class="text-center">Nuestros Servicios</h2>
             <div class="row">
                 <div class="col-md-4 text-center">
-                    <h4>Educación de Calidad</h4>
-                    <p>Contamos con los mejores tratamientos dentales.</p>
+                    <h4>Blanqueamiento Dental Profesional</h4>
+                    <p>El término blanqueamiento se refiere a la restauración del color natural de los dientes mediante la eliminación de la suciedad y las manchas (manchas extrínsecas) de la superficie de los dientes.</p>
                 </div>
                 <div class="col-md-4 text-center">
                     <h4>Resinas</h4>
